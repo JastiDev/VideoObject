@@ -1,6 +1,4 @@
-﻿**
-
-## Detecting objects in the real time video using Python, Yolo / COCO.**
+## Detecting objects in the real time video using Python, Yolo / COCO.
 **installation environment**
 1. install pyton 3.7 from http://python.org
 2. install ovencv using pip command
